@@ -78,7 +78,7 @@ mvn clean package      # compila e empacota (usado na avaliação)
 
 ## Como executar
 
-Use **dois terminais**, ambos na raiz do projeto.
+Use **dois terminais**, ambos na pasta biblioteca-grpc/ do projeto.
 
 **Terminal 1 — servidor (suba primeiro):**
 
